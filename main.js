@@ -9,5 +9,6 @@ function test(){
       document.write("</p>");
     }
   }
+  document.title = "攻撃力と守備力の合計が"+Number+"のモンスター";
   return;
 }
